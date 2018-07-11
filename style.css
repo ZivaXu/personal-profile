@@ -60,7 +60,7 @@ i {
 }*/
 
 #profile {
-  background: url("images/profile_pic_bg.jpg") no-repeat center fixed;
+/*  background: url("images/profile_pic_bg.jpg") no-repeat center fixed;*/
   background-size: 80%;
   overflow: auto;
   box-align: center;
